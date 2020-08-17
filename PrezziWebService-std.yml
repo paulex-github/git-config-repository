@@ -5,7 +5,7 @@ application:
     
 info:
     assistenza:
-        nome: Simone Paolini
+        nome: "Simone Paolini"
     nome:
-        nome-app: Prezzi Webservice - JWT Auth
-    profilo: Standard con Sconto
+        nome-app: "Prezzi Webservice - JWT Auth"
+    profilo: "Standard con Sconto"
