@@ -1,0 +1,11 @@
+application:
+    listino: 100
+    sconto: 0
+    
+    
+info:
+    assistenza:
+        nome: Simone Paolini
+    nome:
+        nome-app: Prezzi Webservice - JWT Auth
+    profilo: List 100    con Sconto
